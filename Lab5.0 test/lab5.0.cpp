@@ -15,3 +15,8 @@ int main()
 double h(const double x, const double y, const double z) 
 	return (x * x + x * z - y * z + y * y) / (x * x + abs(x * y * z) + z * z);
 }
+
+double h(const double x, const double y, const double z)
+{
+	return 0.0;
+}
