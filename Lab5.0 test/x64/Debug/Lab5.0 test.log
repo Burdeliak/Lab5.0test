@@ -1,0 +1,5 @@
+﻿  lab5.0.cpp
+C:\Users\Олександр\source\repos\Lab5.0 test\Lab5.0 test\lab5.0.cpp(16,2): error C2143: syntax error: missing ';' before 'return'
+C:\Users\Олександр\source\repos\Lab5.0 test\Lab5.0 test\lab5.0.cpp(16,2): error C2059: syntax error: 'return'
+C:\Users\Олександр\source\repos\Lab5.0 test\Lab5.0 test\lab5.0.cpp(17,1): error C2059: syntax error: '}'
+C:\Users\Олександр\source\repos\Lab5.0 test\Lab5.0 test\lab5.0.cpp(17,1): error C2143: syntax error: missing ';' before '}'
